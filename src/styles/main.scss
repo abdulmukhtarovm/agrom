@@ -76,8 +76,10 @@ body {
             padding: 0;
         }
     }
-
-
+.fixed-icons{
+    position: fixed;
+    right: 0;
+}
     .UP {
         position: fixed;
         width: 50px;
@@ -575,7 +577,7 @@ body {
         height: 100vh;
         display: flex;
         align-items: center;
-        background-image: url("../img/header.jpg");
+        background-image: url("../img/header.webp");
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -713,24 +715,27 @@ body {
 
         .info {
             margin-left: 20px;
-
+            padding: 0 10px;
             p {
                 color: $grey;
                 font-size: 25px;
                 text-align: center;
-
+                line-height: 40px;
                 @media (max-width:992px) {
                     font-size: 17px;
+                    line-height: 25px;
                 }
             }
 
             h6 {
                 font-size: 17px;
                 color: $grey;
-                font-weight: 300;
-
+                font-weight: 400;
+                margin: 20px 0 0 20px;
                 @media (max-width:992px) {
-                    font-size: 14px;
+                    font-size: 17px;
+                    text-align: center;
+                    margin-left: 0;
                 }
             }
 
@@ -887,7 +892,7 @@ body {
     .footer {
         .mainFooter {
             height: 280px;
-            background: url("img/footer.jpg");
+            background: url("img/footer.webp");
             background-repeat: no-repeat;
             background-size: cover;
             display: flex;
@@ -974,67 +979,67 @@ body {
         align-items: center;
 
         &.proizvodstvo__header {
-            background: url("../img/proizvodstvo-header.jpg");
+            background: url("../img/proizvodstvo-header.webp");
         }
 
         &.photogallery__header {
-            background: url("../img/fotogalereya-header.jpg");
+            background: url("../img/fotogalereya-header.webp");
         }
 
         &.testimonials__header {
-            background: url("../img/testimonial-header.jpg");
+            background: url("../img/testimonial-header.webp");
         }
 
         &.investigation__header {
-            background: url("../img/investitsiya-header.jpg");
+            background: url("../img/investitsiya-header.webp");
         }
 
         &.contacts__header {
-            background: url("../img/contacts-header.jpg");
+            background: url("../img/contacts-header.webp");
         }
 
         &.concentrates__header {
-            background: url("../img/concentrates-header.jpeg");
+            background: url("../img/concentrates-header.webp");
         }
 
         &.produkciya__header {
-            background: url("../img/produkciya-header.jpg");
+            background: url("../img/produkciya-header.webp");
         }
 
         &.driedvegetables__header {
-            background: url("../img/dried-vegetables-header.jpg");
+            background: url("../img/dried-vegetables-header.webp");
         }
 
         &.driedfruits__header {
-            background: url("../img/dried-fruits-header.jpg");
+            background: url("../img/dried-fruits-header.webp");
         }
 
         &.yabloko__header {
-            background: url("../img/yabloko.jpg");
+            background: url("../img/yabloko.webp");
         }
 
         &.hurma__header {
-            background: url("../img/hurma.jpg");
+            background: url("../img/hurma.webp");
         }
 
         &.tomat__header {
-            background: url("../img/tomat.jpg");
+            background: url("../img/tomat.webp");
         }
 
         &.tikvapure__header {
-            background: url("../img/tikva.jpeg");
+            background: url("../img/tikva.webp");
         }
 
         &.morkovpure__header {
-            background: url("../img/morkovpure.jpg");
+            background: url("../img/morkovpure.webp");
         }
 
         &.sveklapure__header {
-            background: url("../img/sveklapure.jpg");
+            background: url("../img/sveklapure.webp");
         }
 
         &.yablokopure__header {
-            background: url("../img/yablokopure.jpg");
+            background: url("../img/yablokopure.webp");
         }
 
         &.abrikospure__header {
@@ -1042,59 +1047,59 @@ body {
         }
 
         &.persikpure__header {
-            background: url("../img/persikpure.jpg");
+            background: url("../img/persikpure.webp");
         }
 
         &.slivapure__header {
-            background: url("../img/slivapure.jpg");
+            background: url("../img/slivapure.webp");
         }
 
         &.driedbaklajan__header {
-            background: url("../img/driedbaklajan.jpeg");
+            background: url("../img/driedbaklajan.webp");
         }
 
         &.driedtikva__header {
-            background: url("../img/driedtikva.jpg");
+            background: url("../img/driedtikva.webp");
         }
 
         &.driedmorkov__header {
-            background: url("../img/driedmorkov.jpg");
+            background: url("../img/driedmorkov.webp");
         }
 
         &.driedsvekla__header {
-            background: url("../img/driedsvekla.jpg");
+            background: url("../img/driedsvekla.webp");
         }
 
         &.driedbolgarskiy__header {
-            background: url("../img/driedbolgarskiy.jpg");
+            background: url("../img/driedbolgarskiy.webp");
         }
 
         &.driedperec__header {
-            background: url("../img/driedperec.jpg");
+            background: url("../img/driedperec.webp");
         }
 
         &.driedkapusta__header {
-            background: url("../img/driedkapusta.jpeg");
+            background: url("../img/driedkapusta.webp");
         }
 
         &.driedpomidor__header {
-            background: url("../img/driedpomidor.jpg");
+            background: url("../img/driedpomidor.webp");
         }
 
         &.driedluk__header {
-            background: url("../img/driedluk.jpg");
+            background: url("../img/driedluk.webp");
         }
 
         &.driedlukzeleniy__header {
-            background: url("../img/driedlukzeleniy.jpg");
+            background: url("../img/driedlukzeleniy.webp");
         }
 
         &.driedpetrushka__header {
-            background: url("../img/driedpetrushka.jpg");
+            background: url("../img/driedpetrushka.webp");
         }
 
         &.driedukrop__header {
-            background: url("../img/driedukrop.jpg");
+            background: url("../img/driedukrop.webp");
         }
 
         .shadow {

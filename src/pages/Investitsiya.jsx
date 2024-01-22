@@ -79,7 +79,7 @@ const Investitsiya = () => {
           <div className="col-md-4 col-6">
             <div className="wrap">
               <div className="img">
-                <img loading="lazy" className="w-100" src="img/invest-pres1.png" alt="" />
+                <img loading="lazy" className="w-100" src="img/invest-pres1.webp" alt="" />
               </div>
               <div className="myBtn">
                 <a href="presentations/invest1.pdf">
@@ -92,7 +92,7 @@ const Investitsiya = () => {
           <div className="col-md-4 col-6">
             <div className="wrap">
               <div className="img">
-                <img loading="lazy" className="w-100" src="img/invest-pres2.png" alt="" />
+                <img loading="lazy" className="w-100" src="img/invest-pres2.webp" alt="" />
               </div>
               <div className="myBtn">
                 <a href="presentations/invest2.pdf">
@@ -105,7 +105,7 @@ const Investitsiya = () => {
           <div className="col-md-4 col-6">
             <div className="wrap">
               <div className="img">
-                <img loading="lazy" className="w-100" src="img/invest-pres3.png" alt="" />
+                <img loading="lazy" className="w-100" src="img/invest-pres3.webp" alt="" />
               </div>
               <div className="myBtn">
                 <a href="presentations/invest3.pdf">
@@ -118,7 +118,7 @@ const Investitsiya = () => {
           <div className="col-md-4 col-6">
             <div className="wrap">
               <div className="img">
-                <img loading="lazy" className="w-100" src="img/invest-pres4.png" alt="" />
+                <img loading="lazy" className="w-100" src="img/invest-pres4.webp" alt="" />
               </div>
               <div className="myBtn">
                 <a href="presentations/invest4.pdf">
@@ -131,7 +131,7 @@ const Investitsiya = () => {
           <div className="col-md-4 col-6">
             <div className="wrap">
               <div className="img">
-                <img loading="lazy" className="w-100" src="img/invest-pres5.png" alt="" />
+                <img loading="lazy" className="w-100" src="img/invest-pres5.webp" alt="" />
               </div>
               <div className="myBtn">
                 <a href="presentations/invest5.pdf">
@@ -144,7 +144,7 @@ const Investitsiya = () => {
           <div className="col-md-4 col-6">
             <div className="wrap">
               <div className="img">
-                <img loading="lazy" className="w-100" src="img/invest-pres6.png" alt="" />
+                <img loading="lazy" className="w-100" src="img/invest-pres6.webp" alt="" />
               </div>
               <div className="myBtn">
                 <a href="presentations/invest6.pdf">

@@ -14,7 +14,7 @@ const SlivovoePure = () => {
     </div>
     <div className="container">
       <div className="img">
-        <img loading="lazy" className="w-100" src="img/slivapure.png" alt="" />
+        <img loading="lazy" className="w-100" src="img/slivapure.webp" alt="" />
 
         <div className="popular__texts">
           <h3 className="popular__title">{getText("slivapureTitle1")}</h3>

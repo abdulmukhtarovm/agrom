@@ -60,7 +60,7 @@ const Personals = () => {
               <h4>{getText("ceo_title")}</h4>
 
               <div className="img">
-                <img loading="lazy" className="w-75" src="img/buriev.jpg" alt="" />
+                <img loading="lazy" className="w-75" src="img/buriev.webp" alt="" />
               </div>
 
               <div className="info">
@@ -94,7 +94,7 @@ const Personals = () => {
               <h4>{getText("sales_title")}</h4>
 
               <div className="img">
-                <img loading="lazy" className="w-75" src="img/abdullaev.jpg" alt="" />
+                <img loading="lazy" className="w-75" src="img/abdullaev.webp" alt="" />
               </div>
 
               <div className="info">
@@ -128,7 +128,7 @@ const Personals = () => {
               <h4>{getText("technic_title")}</h4>
 
               <div className="img">
-                <img loading="lazy" className="w-75" src="img/polyahov.jpg" alt="" />
+                <img loading="lazy" className="w-75" src="img/polyahov.webp" alt="" />
               </div>
 
               <div className="info">

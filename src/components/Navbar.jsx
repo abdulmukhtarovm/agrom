@@ -54,7 +54,7 @@ const Navbar = () => {
           <div className="col-lg-2 col-md-4 col-5">
             <div className="logo">
               <a href="/">
-                <img className="w-100" src="img/logo.png" alt="" />
+                <img className="w-100" src="img/logo.webp" alt="" />
               </a>
             </div>
           </div>

@@ -13,7 +13,7 @@ const Tikva = () => {
     </div>
     <div className="container">
       <div className="img">
-        <img loading="lazy" className="w-100" src="img/driedtikva.png" alt="" />
+        <img loading="lazy" className="w-100" src="img/driedtikva.webp" alt="" />
 
         <div className="popular__texts">
           <h3 className="popular__title">{getText("driedtikvaTitle1")}</h3>

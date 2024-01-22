@@ -14,7 +14,7 @@ const MorkovnoePure = () => {
     </div>
     <div className="container">
       <div className="img">
-        <img loading="lazy" className="w-100" src="img/morkovpure.png" alt="" />
+        <img loading="lazy" className="w-100" src="img/morkovpure.webp" alt="" />
 
         <div className="popular__texts">
           <h3 className="popular__title">{getText("morkovpureTitle1")}</h3>

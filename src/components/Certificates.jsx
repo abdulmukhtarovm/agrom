@@ -24,16 +24,16 @@ const Certificates = () => {
               className="mySwiper"
             >
               <SwiperSlide>
-                <img loading="lazy" className="w-100" src="img/ser1-1.jpg" alt="" />
+                <img loading="lazy" className="w-100" src="img/ser1-1.webp" alt="" />
               </SwiperSlide>
               <SwiperSlide>
-                <img loading="lazy" className="w-100" src="img/ser1-2.jpg" alt="" />
+                <img loading="lazy" className="w-100" src="img/ser1-2.webp" alt="" />
               </SwiperSlide>
               <SwiperSlide>
-                <img loading="lazy" className="w-100" src="img/ser1-3.jpg" alt="" />
+                <img loading="lazy" className="w-100" src="img/ser1-3.webp" alt="" />
               </SwiperSlide>
               <SwiperSlide>
-                <img loading="lazy" className="w-100" src="img/ser1-4.jpg" alt="" />
+                <img loading="lazy" className="w-100" src="img/ser1-4.webp" alt="" />
               </SwiperSlide>
             </Swiper>
           </div>
@@ -45,16 +45,16 @@ const Certificates = () => {
               className="mySwiper"
             >
               <SwiperSlide>
-                <img loading="lazy" className="w-100" src="img/ser2-1.jpg" alt="" />
+                <img loading="lazy" className="w-100" src="img/ser2-1.webp" alt="" />
               </SwiperSlide>
               <SwiperSlide>
-                <img loading="lazy" className="w-100" src="img/ser2-2.jpg" alt="" />
+                <img loading="lazy" className="w-100" src="img/ser2-2.webp" alt="" />
               </SwiperSlide>
               <SwiperSlide>
-                <img loading="lazy" className="w-100" src="img/ser2-3.jpg" alt="" />
+                <img loading="lazy" className="w-100" src="img/ser2-3.webp" alt="" />
               </SwiperSlide>
               <SwiperSlide>
-                <img loading="lazy" className="w-100" src="img/ser2-4.jpg" alt="" />
+                <img loading="lazy" className="w-100" src="img/ser2-4.webp" alt="" />
               </SwiperSlide>
             </Swiper>
           </div>
@@ -69,13 +69,13 @@ const Certificates = () => {
               className="mySwiper"
             >
               <SwiperSlide>
-                <img loading="lazy" className="w-100" src="img/ser3-1.jpg" alt="" />
+                <img loading="lazy" className="w-100" src="img/ser3-1.webp" alt="" />
               </SwiperSlide>
               <SwiperSlide>
-                <img loading="lazy" className="w-100" src="img/ser3-2.jpg" alt="" />
+                <img loading="lazy" className="w-100" src="img/ser3-2.webp" alt="" />
               </SwiperSlide>
               <SwiperSlide>
-                <img loading="lazy" className="w-100" src="img/ser3-3.jpg" alt="" />
+                <img loading="lazy" className="w-100" src="img/ser3-3.webp" alt="" />
               </SwiperSlide>
             </Swiper>
           </div>
@@ -87,10 +87,10 @@ const Certificates = () => {
               className="mySwiper"
             >
               <SwiperSlide>
-                <img loading="lazy" className="w-100" src="img/ser4-1.jpg" alt="" />
+                <img loading="lazy" className="w-100" src="img/ser4-1.webp" alt="" />
               </SwiperSlide>
               <SwiperSlide>
-                <img loading="lazy" className="w-100" src="img/ser4-2.jpg" alt="" />
+                <img loading="lazy" className="w-100" src="img/ser4-2.webp" alt="" />
               </SwiperSlide>
             </Swiper>
           </div>

@@ -13,7 +13,7 @@ const Perec = () => {
     </div>
     <div className="container">
       <div className="img">
-        <img loading="lazy" className="w-100" src="img/driedperec.png" alt="" />
+        <img loading="lazy" className="w-100" src="img/driedperec.webp" alt="" />
 
         <div className="popular__texts">
           <h3 className="popular__title">{getText("driedperecTitle1")}</h3>

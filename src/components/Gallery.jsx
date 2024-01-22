@@ -27,106 +27,106 @@ const Gallery = () => {
                 className="mySwiper"
               >
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/newprod1.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/newprod1.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/newprod2.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/newprod2.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/newprod3.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/newprod3.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/newprod4.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/newprod4.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/newprod5.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/newprod5.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/newprod6.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/newprod6.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/newprod7.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/newprod7.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/newprod8.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/newprod8.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/newprod9.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/newprod9.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/newprod10.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/newprod10.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/newprod11.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/newprod11.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/newprod12.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/newprod12.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod1.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod1.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod2.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod2.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod3.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod3.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod4.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod4.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod5.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod5.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod6.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod6.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod7.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod7.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod8.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod8.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod9.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod9.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod10.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod10.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod11.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod11.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod12.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod12.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod13.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod13.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod14.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod14.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod15.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod15.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod16.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod16.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod17.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod17.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod18.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod18.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod19.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod19.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod20.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod20.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod21.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod21.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100" src="img/prod22.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/prod22.webp" alt="" />
                 </SwiperSlide>
               </Swiper>
             </div>
@@ -151,142 +151,142 @@ const Gallery = () => {
                 className="mySwiper"
               >
                <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod1.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod1.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod2.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod2.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod3.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod3.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod4.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod4.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod5.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod5.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod6.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod6.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod7.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod7.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod8.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod8.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod9.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod9.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod10.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod10.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod11.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod11.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod12.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod12.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod13.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod13.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod14.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod14.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod15.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod15.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod16.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod16.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod17.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod17.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod18.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod18.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod19.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod19.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod20.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod20.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod21.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod21.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod22.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod22.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod23.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod23.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod24.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod24.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod25.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod25.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod26.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod26.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod27.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod27.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod28.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod28.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod29.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod29.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod30.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod30.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod31.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod31.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod32.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod32.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod33.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod33.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod34.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod34.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod35.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod35.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod36.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod36.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod37.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod37.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod38.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod38.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod39.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod39.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod40.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod40.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod41.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod41.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod42.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod42.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod43.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod43.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod44.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod44.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod45.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod45.webp" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img loading="lazy" className="w-100 h-100" src="img/zavod46.jpg" alt="" />
+                  <img loading="lazy" className="w-100 h-100" src="img/zavod46.webp" alt="" />
                 </SwiperSlide>
               </Swiper>
             </div>

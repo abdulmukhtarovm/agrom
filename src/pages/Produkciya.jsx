@@ -32,7 +32,7 @@ const Produkciya = () => {
             <div className="row mb-5 justify-content-between align-items-center">
               <div className="col-lg-7">
                 <div className="img">
-                  <img loading="lazy" className="w-100" src="img/produkciya1.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/produkciya1.webp" alt="" />
                 </div>
               </div>
               <div className="col-lg-4">
@@ -103,7 +103,7 @@ const Produkciya = () => {
             <div className="row mb-5 justify-content-between align-items-center">
               <div className="col-lg-7">
                 <div className="img">
-                  <img loading="lazy" className="w-100" src="img/produkciya2.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/produkciya2.webp" alt="" />
                 </div>
               </div>
               <div className="col-lg-4">
@@ -138,7 +138,7 @@ const Produkciya = () => {
             <div className="row mb-5 justify-content-between align-items-center">
               <div className="col-lg-7">
                 <div className="img">
-                  <img loading="lazy" className="w-100" src="img/produkciya3.jpg" alt="" />
+                  <img loading="lazy" className="w-100" src="img/produkciya3.webp" alt="" />
                 </div>
               </div>
               <div className="col-lg-4">

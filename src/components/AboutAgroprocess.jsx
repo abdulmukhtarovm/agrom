@@ -8,7 +8,7 @@ const AboutAgroprocess = () => {
       <div className="row align-items-center">
         <div className="col-lg-6">
             <div className="info">
-                <img className="w-100 mb-5" src="img/agroprocessing.png" alt="" />
+                <img className="w-100 mb-5" src="img/agroprocessing.webp" alt="" />
                 <p>{getText("aboutDesc")}</p>
                 <ul>
                     <li>{getText("aboutLi1")}</li>
@@ -22,7 +22,7 @@ const AboutAgroprocess = () => {
         </div>
         <div className="col-lg-6 mt-5 mt-lg-5">
             <div className="img">
-                <img className="w-100" src="/img/aboutpic.png" alt="" />
+                <img className="w-100" src="/img/aboutpic.webp" alt="" />
             </div>
         </div>
       </div>

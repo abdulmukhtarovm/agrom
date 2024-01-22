@@ -20,7 +20,7 @@ const Dehydration = () => {
         <div className="col-md-4">
           <div className="wrap">
          <div className="img">
-               <img loading="lazy" className="w-100" src="img/dehy1.jpg" alt="" />
+               <img loading="lazy" className="w-100" src="img/dehy1.webp" alt="" />
          </div>
             <div className="text">
                 <h6>{getText("dehyCard1")}</h6>
@@ -30,7 +30,7 @@ const Dehydration = () => {
         <div className="col-md-4">
           <div className="wrap">
          <div className="img">
-               <img loading="lazy" className="w-100" src="img/dehy2.jpg" alt="" />
+               <img loading="lazy" className="w-100" src="img/dehy2.webp" alt="" />
          </div>
             <div className="text">
                 <h6>{getText("dehyCard2")}</h6>
@@ -40,7 +40,7 @@ const Dehydration = () => {
         <div className="col-md-4">
           <div className="wrap">
          <div className="img">
-               <img loading="lazy" className="w-100" src="img/dehy3.jpg" alt="" />
+               <img loading="lazy" className="w-100" src="img/dehy3.webp" alt="" />
          </div>
             <div className="text">
                 <h6>{getText("dehyCard3")}</h6>

@@ -13,7 +13,7 @@ const Luk = () => {
       </div>
       <div className="container">
         <div className="img">
-          <img loading="lazy" className="w-100" src="img/driedluk.png" alt="" />
+          <img loading="lazy" className="w-100" src="img/driedluk.webp" alt="" />
 
           <div className="popular__texts">
             <h3 className="popular__title">{getText("driedlukTitle1")}</h3>

@@ -14,7 +14,7 @@ import { getText } from "../../locales"
         </div>
         <div className="container">
           <div className="img">
-            <img loading="lazy" className="w-100" src="img/tomat.png" alt="" />
+            <img loading="lazy" className="w-100" src="img/tomat.webp" alt="" />
   
             <div className="popular__texts">
               <h3 className="popular__title">{getText("tomatTitle1")}</h3>

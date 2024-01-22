@@ -13,7 +13,7 @@ const Pomidor = () => {
       </div>
       <div className="container">
         <div className="img">
-          <img loading="lazy" className="w-100" src="img/driedpomidor.png" alt="" />
+          <img loading="lazy" className="w-100" src="img/driedpomidor.webp" alt="" />
 
           <div className="popular__texts">
             <h3 className="popular__title">{getText("driedpomidorTitle1")}</h3>

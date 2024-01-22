@@ -10,52 +10,52 @@ const Prices = () => {
         </div>
         <div className="row justify-content-center">
           <div className="col-md-2 col-4 mb-3">
-            <img loading="lazy" className="w-100" src="img/price1.jpg" alt="" />
+            <img loading="lazy" className="w-100" src="img/price1.webp" alt="" />
           </div>
           <div className="col-md-2 col-4 mb-3">
-            <img loading="lazy" className="w-100" src="img/price2.jpg" alt="" />
+            <img loading="lazy" className="w-100" src="img/price2.webp" alt="" />
           </div>
           <div className="col-md-2 col-4 mb-3">
-            <img loading="lazy" className="w-100" src="img/price3.jpg" alt="" />
+            <img loading="lazy" className="w-100" src="img/price3.webp" alt="" />
           </div>
           <div className="col-md-2 col-4 mb-3">
-            <img loading="lazy" className="w-100" src="img/price4.jpg" alt="" />
+            <img loading="lazy" className="w-100" src="img/price4.webp" alt="" />
           </div>
           <div className="col-md-2 col-4 mb-3">
-            <img loading="lazy" className="w-100" src="img/price5.jpg" alt="" />
+            <img loading="lazy" className="w-100" src="img/price5.webp" alt="" />
           </div>
           <div className="col-md-2 col-4 mb-3">
-            <img loading="lazy" className="w-100" src="img/price6.jpg" alt="" />
+            <img loading="lazy" className="w-100" src="img/price6.webp" alt="" />
           </div>
           <div className="col-md-2 col-4 mb-3">
-            <img loading="lazy" className="w-100" src="img/price7.jpg" alt="" />
+            <img loading="lazy" className="w-100" src="img/price7.webp" alt="" />
           </div>
           <div className="col-md-2 col-4 mb-3">
-            <img loading="lazy" className="w-100" src="img/price8.jpg" alt="" />
+            <img loading="lazy" className="w-100" src="img/price8.webp" alt="" />
           </div>
           <div className="col-md-2 col-4 mb-3">
-            <img loading="lazy" className="w-100" src="img/price9.jpg" alt="" />
+            <img loading="lazy" className="w-100" src="img/price9.webp" alt="" />
           </div>
           <div className="col-md-2 col-4 mb-3">
-            <img loading="lazy" className="w-100" src="img/price10.jpg" alt="" />
+            <img loading="lazy" className="w-100" src="img/price10.webp" alt="" />
           </div>
           <div className="col-md-2 col-4 mb-3">
-            <img loading="lazy" className="w-100" src="img/price11.jpg" alt="" />
+            <img loading="lazy" className="w-100" src="img/price11.webp" alt="" />
           </div>
           <div className="col-md-2 col-4 mb-3">
-            <img loading="lazy" className="w-100" src="img/price12.jpg" alt="" />
+            <img loading="lazy" className="w-100" src="img/price12.webp" alt="" />
           </div>
           <div className="col-md-2 col-4 mb-3">
-            <img loading="lazy" className="w-100" src="img/price13.jpg" alt="" />
+            <img loading="lazy" className="w-100" src="img/price13.webp" alt="" />
           </div>
           <div className="col-md-2 col-4 mb-3">
-            <img loading="lazy" className="w-100" src="img/price14.jpg" alt="" />
+            <img loading="lazy" className="w-100" src="img/price14.webp" alt="" />
           </div>
           <div className="col-md-2 col-4 mb-3">
-            <img loading="lazy" className="w-100" src="img/price15.jpg" alt="" />
+            <img loading="lazy" className="w-100" src="img/price15.webp" alt="" />
           </div>
           <div className="col-md-2 col-4 mb-3">
-            <img loading="lazy" className="w-100" src="img/price16.jpg" alt="" />
+            <img loading="lazy" className="w-100" src="img/price16.webp" alt="" />
           </div>
         </div>
     

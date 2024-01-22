@@ -96,187 +96,187 @@ const ProizvodstvoBody = () => {
           className="mySwiper"
         >
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz1.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz1.webp" />
           </SwiperSlide>
           {/* <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz2.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz2.webp" />
           </SwiperSlide> */}
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz3.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz3.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz4.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz4.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz5.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz5.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz6.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz6.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz7.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz7.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz8.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz8.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz9.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz9.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz10.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz10.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz11.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz11.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz12.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz12.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz13.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz13.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz14.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz14.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz15.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz15.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz16.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz16.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz17.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz17.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz18.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz18.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz19.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz19.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz20.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz20.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz21.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz21.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz22.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz22.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz23.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz23.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz24.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz24.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz25.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz25.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz26.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz26.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz27.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz27.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz28.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz28.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz29.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz29.webp" />
           </SwiperSlide>
           <SwiperSlide>
-            <img loading="lazy" className="w-100 h-100" src="img/proiz30.jpg" />
+            <img loading="lazy" className="w-100 h-100" src="img/proiz30.webp" />
           </SwiperSlide>
         </Swiper>
         <div className="container mt-5">
           <div className="row">
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz1.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz1.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz2.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz2.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz3.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz3.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz4.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz4.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz5.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz5.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz6.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz6.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz7.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz7.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz8.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz8.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz9.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz9.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz10.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz10.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz11.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz11.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz12.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz12.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz13.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz13.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz14.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz14.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz15.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz15.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz16.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz16.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz17.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz17.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz18.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz18.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz19.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz19.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz20.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz20.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz21.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz21.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz22.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz22.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz23.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz23.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz24.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz24.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz25.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz25.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz26.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz26.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz27.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz27.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz28.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz28.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz29.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz29.webp" />
             </div>
             <div className="col-md-2 col-4 mb-4">
-              <img loading="lazy" className="w-100 h-100" src="img/proiz30.jpg" />
+              <img loading="lazy" className="w-100 h-100" src="img/proiz30.webp" />
             </div>
           </div>
         </div>

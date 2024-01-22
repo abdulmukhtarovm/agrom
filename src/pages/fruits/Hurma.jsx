@@ -14,7 +14,7 @@ const Hurma = () => {
     </div>
     <div className="container">
       <div className="img">
-        <img loading="lazy" className="w-100" src="img/sushenaya-hurma.png" alt="" />
+        <img loading="lazy" className="w-100" src="img/sushenaya-hurma.webp" alt="" />
 
         <div className="popular__texts">
           <h3 className="popular__title">{getText("hurmaTitle1")}</h3>

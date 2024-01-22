@@ -43,6 +43,7 @@ import LukZeleniy from "./pages/vegetables/LukZeleniy.jsx";
 import Luk from "./pages/vegetables/Luk.jsx";
 import Kapusta from "./pages/vegetables/Kapusta.jsx";
 import Bolgarskiy from "./pages/vegetables/Bolgarskiy.jsx";
+import Icons from "./components/Icons.jsx";
 
 
 ReactDOM.createRoot(document.getElementById("root")).render(
@@ -92,5 +93,6 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     </Routes>
     <Footer />
     <Up />
+    <Icons/>
   </HashRouter>
 );

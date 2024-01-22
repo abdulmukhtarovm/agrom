@@ -13,7 +13,7 @@ const LukZeleniy = () => {
       </div>
       <div className="container">
         <div className="img">
-          <img loading="lazy" className="w-100" src="img/driedlukzeleniy.png" alt="" />
+          <img loading="lazy" className="w-100" src="img/driedlukzeleniy.webp" alt="" />
 
           <div className="popular__texts">
             <h3 className="popular__title">{getText("driedlukzeleniyTitle1")}</h3>

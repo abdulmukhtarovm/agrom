@@ -4,49 +4,49 @@ export  const pures = [
     {
       title: getText("tomatnoe"),
       description: getText("tomatnoeDesc"),
-      image: "img/tomatnoe.png",
+      image: "img/tomatnoe.webp",
       link: "/produkciya/koncentraty-pyure/tomatnaya"
     },
     {
       title: getText("tikvennoe"),
       description: getText("tikvennoeDesc"),
-      image: "img/tikvennoe.png",
+      image: "img/tikvennoe.webp",
       link: "/produkciya/koncentraty-pyure/tikvennoe"
     },
     {
       title: getText("svekolnoe"),
       description: getText("svekolnoeDesc"),
-      image: "img/svekolnoe.png",
+      image: "img/svekolnoe.webp",
       link: "/produkciya/koncentraty-pyure/svekolnoe"
     },
     {
       title: getText("morkovnoe"),
       description: getText("morkovnoeDesc"),
-      image: "img/morkovnoe.png",
+      image: "img/morkovnoe.webp",
       link: "/produkciya/koncentraty-pyure/morkovnoe"
     },
     {
       title: getText("yablochnoe"),
       description: getText("yablochnoeDesc"),
-      image: "img/yablochnoe.png",
+      image: "img/yablochnoe.webp",
       link: "/produkciya/koncentraty-pyure/yablochnoe"
     },
     {
       title: getText("abrikosovoe"),
       description: getText("abrikosovoeDesc"),
-      image: "img/abrikosovoe.png",
+      image: "img/abrikosovoe.webp",
       link: "/produkciya/koncentraty-pyure/abrikosovoe"
     },
     {
       title: getText("persikovoe"),
       description: getText("persikovoeDesc"),
-      image: "img/persikovoe.png",
+      image: "img/persikovoe.webp",
       link: "/produkciya/koncentraty-pyure/persikovoe"
     },
     {
       title: getText("slivovoe"),
       description: getText("slivovoeDesc"),
-      image: "img/slivovoe.png",
+      image: "img/slivovoe.webp",
       link: "/produkciya/koncentraty-pyure/slivovoe"
     },
   ]; 

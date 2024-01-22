@@ -13,7 +13,7 @@ const Svekla = () => {
     </div>
     <div className="container">
       <div className="img">
-        <img loading="lazy" className="w-100" src="img/driedsvekla.png" alt="" />
+        <img loading="lazy" className="w-100" src="img/driedsvekla.webp" alt="" />
 
         <div className="popular__texts">
           <h3 className="popular__title">{getText("driedsveklaTitle1")}</h3>
