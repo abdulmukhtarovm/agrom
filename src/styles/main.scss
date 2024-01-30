@@ -697,6 +697,7 @@ body {
 
         @media (max-width:992px) {
             height: 70vh;
+            background-attachment: inherit !important;
         }
     }
 
@@ -892,7 +893,8 @@ body {
     .footer {
         .mainFooter {
             height: 280px;
-            background: url("img/footer.webp");
+            background: url("/img/footer.webp");
+            // footer keldi hozi boshqa brauzerdan tekshiraman
             background-repeat: no-repeat;
             background-size: cover;
             display: flex;
@@ -1091,7 +1093,7 @@ body {
         }
 
         &.driedlukzeleniy__header {
-            background: url("../img/driedlukzeleniy.webp");
+            background: url("/img/driedlukzeleniy.webp");
         }
 
         &.driedpetrushka__header {
